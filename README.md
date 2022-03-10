@@ -29,7 +29,7 @@ docker-compose up -d
 # Comandos básicos de Docker Compose
 - Iniciar servicios 
 ```
-docker-compose restart
+docker-compose start
 ```
 - Detener servicios
 ```
