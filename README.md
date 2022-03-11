@@ -1,4 +1,4 @@
-Docker Compose con Apache, MySQL, PHPMyAdmin, PHP y Slim Framework.
+Docker Compose con Apache, MySQL, PHPMyAdmin y Slim Framework.
 
 # Instalación
 
